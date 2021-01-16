@@ -1,0 +1,10 @@
+x = "hello world"  # str
+x = 20  # int
+x = 20.5  # float
+x = ["apple", "banana", "cherry"]  # list
+x = ("apple", "banana", "cherry")  # tuple
+x = {"name": "nutsanee", " age": 20}  # jict
+x = {"apple", "banana", "cherry"}  # set
+x = frozenset({"apple", "banana", "cherry"})  # frozenset
+x = True  # bool
+x = b"hello"  # byte
